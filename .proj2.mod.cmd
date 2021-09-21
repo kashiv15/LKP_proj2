@@ -1,0 +1,1 @@
+cmd_/home/kvishwanath/course/LKP/Assignment/Project2/proj2.mod := { echo  /home/kvishwanath/course/LKP/Assignment/Project2/proj2.o;  echo; } > /home/kvishwanath/course/LKP/Assignment/Project2/proj2.mod

@@ -1,0 +1,1 @@
+cmd_/home/kvishwanath/course/LKP/Assignment/Project2/proj2.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/kvishwanath/course/LKP/Assignment/Project2/proj2.ko /home/kvishwanath/course/LKP/Assignment/Project2/proj2.o /home/kvishwanath/course/LKP/Assignment/Project2/proj2.mod.o;  true
